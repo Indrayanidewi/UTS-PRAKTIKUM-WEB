@@ -1,0 +1,13 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+#box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    background-color: rgb(43, 61, 196);
+    position: fixed;
+    transition: 0,2s;
+}
